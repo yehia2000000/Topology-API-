@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include "main.cpp"
+#include "Classes.cpp"
 
 int GetNumberofComponent (string FileNme); // this function used to get the number of component from file
 int GetNumberofTerminal (string FileName , int position); //this function used to get the number if terminal device 
